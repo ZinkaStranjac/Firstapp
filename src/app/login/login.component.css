@@ -1,0 +1,35 @@
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 1px;
+  }
+  
+  input {
+    width: 10%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-container {
+    margin: 10px; /* Promijenite vrijednost margine prema svojim potrebama */
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 5;
+  }
+  

@@ -1,0 +1,19 @@
+head {
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    color: red; /* Promenite boju teksta u crvenu */
+  }
+  
+  body {
+    background-color: gray; /* Promenite boju pozadine u sivu */
+  }
+  .custom-image {
+    width: 200px;
+    height: 150px;
+  }
+  
